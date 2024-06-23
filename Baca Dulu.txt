@@ -1,0 +1,120 @@
+
+
+Penjelasan Folder "code":
+
+ip6s1	Iphone 6s (Kiri dan di Homepage)
+ip6s2	Iphone 6s (Tengah)
+ip6s3	Iphone 6s (Kanan)
+	
+ip51	Iphone 5 (Kiri)
+ip52	Iphone 5 (Tengah)
+ip53	Iphone 5 (Kanan)
+	
+om1	HP OMEN (Kiri)
+om2	HP OMEN (Tengah)
+om3	HP OMEN (Kanan)
+	
+rog1	Asus ROG (Kiri)
+rog2	Asus ROG (Tengah)
+rog3	Asus ROG (Kanan)
+	
+z10	Windows 10
+za4	Robot? (20 Smidgen)
+zkets	MC. Shave’s Aftershave
+zkrbs	T&V Kurbis
+zm3y	Andromax M3y
+zpaio	Printer AiO
+zpb	Sepatu Mystic
+zpc	PC AiO
+ztg	Mesin Ketik
+zvoya	Voyager
+
+===========================
+===========================
+
+Penjelasan Folder "coding":
+_________________________________________________________
+|Nama File				|	Penjelasan					|
+|_______________________|_______________________________|
+|ads					|	Iklan 						|
+|aus					|	About Us					|
+|cb						|	Cara Belanja				|
+|Iphone**				|	Iphone 6s					|
+|Iphone5**				|	Iphone 5					|
+|Myshack				|	Profil 						|
+|Omen**					|	HP OMEN 					|
+|rog**					|	Asus ROG 					|
+|syarat					|	S&K (Syarat dan Ketentuan)	|
+|Toko Online (Primer)	|	Home Page				 	|
+|_______________________|_______________________________|
+
+===========================
+===========================
+
+Penjelasan Folder "lapak":
+
+	Folder "lapak" adalah folder yang memuat gambar ukuran penuh dari iklan(640x480).
+
+===========================
+===========================
+
+Penjelasan Folder "prev":
+
+	Folder "prev" adalah folder yang memuat gambar preview iklan(150x150)
+
+===========================
+===========================
+
+Penjelasan Folder "prof":
+
+	Folder "prof" adalah folder yang memuat gambar untuk halaman "PROFIL"
+
+*Foto Profil	(150x150)
+*Foto Sampul	(1000x200)
+
+=============================
+=============================
+
+Untuk Gambar Yang Tidak Dimasukkan Ke Dalam Folder:
+
+	blue.jpg 	(bagian samping)
+	bot.jpg		(background)
+	ban.jpg		(header)
+
+===============================
+===============================
+
+Folder "Video"
+	
+	Untuk video di iklan.
+
+================================
+================================
+
+Hati-Hati.
+	Kalau mau ganti nama Folder. Semua alamat(src) di codingan juga harus diganti.
+
+=================================
+=================================
+
+Install dulu font Lemon/Milk.
+
+	Pindahin isinya ke: C:\Windows\Fonts
+
+=================================
+=================================
+
+
+
+====		====	====================	======			  ======    ====
+====		====	====================	=======			 =======    ====
+====		====	===		====	 ===	========		========    ====
+====		====	===		====	 ===	==== ====      ==== ====    ====
+====		====			====			====  ====    ====  ====    ====
+================			====			====	==== ====   ====    ====
+================			====			====	 =======    ====    ====
+====		====			====			====	  =====	    ====    ====
+====		====			====			====	   ===	    ====    ====
+====		====			====			====		    	====    ====
+====		====			====			====		    	====    ===============
+====		====			====			====		    	====    ===============
